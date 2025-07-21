@@ -42,17 +42,13 @@
 .search {
     padding-top: 19px;
     padding-bottom: 19px;
-    padding-right: 230px;
+    padding-right: 380px;
     border-radius: 8px;
 }
 
-.btn-primary {
-    padding: 17px 39px;
-    font-family: "Poppins", sans-serif;
-    font-weight: 700;
-    
-    font-size: 1.25rem;
-}
+
+
+
 .banner-input {
    
 }
@@ -64,5 +60,55 @@ main {
 
 
 .section-1 {
-   
+   margin:120px 550px 80px 550px;
 }
+
+.sec-01-title {
+    font-family: "EB Garamond", serif;
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: #414040;
+}
+
+.sec-01-des {
+    font-size: 0.9rem;
+    color:#707070;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* shared styles */
+.btn-primary {
+    padding: 17px 39px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 1.25 rem;
+}
+
+.poppins {
+      font-family: "Poppins", sans-serif;
+}
+
+.garamond {
+font-family: "EB Garamond", serif;
+
+}
+
